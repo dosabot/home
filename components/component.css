@@ -1,0 +1,9 @@
+.component-container {
+  display: flex;
+  position: relative;
+}
+.component-button {
+  width: 445px;
+  height: 107px;
+  font-size: 76px;
+}
